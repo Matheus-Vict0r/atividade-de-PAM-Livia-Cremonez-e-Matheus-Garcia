@@ -269,7 +269,11 @@ public class Exemplo {
 								   
 }
 
+Referência:
 
+https://developer.android.com/
+
+https://www.devmedia.com.br/
 
 
 
